@@ -2,7 +2,7 @@
 
 - 🔭 I’m seeking full-time SDE opportunity as a new graduate
 - 🌱 I’m a master student from Cornell University majoring in Information Science
-- :globe_with_meridians: My personal page: https://vcccaat.github.io/
+- :globe_with_meridians: My portfolio: https://vcccaat.github.io/
 - 😄 Technical Skill: 
   - Programming Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS, R
   - Frameworks and tools: Spring, React, Vue, D3, OpenGL, Maven, Linux, Docker, AWS, Tabelau, Git
