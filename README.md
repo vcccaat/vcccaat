@@ -5,7 +5,9 @@
 - :globe_with_meridians: My portfolio: https://yingshi.vercel.app/
 - 😄 Technical Skill: 
   - Programming Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS, R
-  - Frameworks and tools: Spring, React, Vue, D3, OpenGL, Maven, Linux, Docker, AWS, Tabelau, Git
+  - Web Dev: React, Redux, Vue, D3, Spring, Node.js, Next.js, Ant Design, Material UI
+  - Graphics: OpenGL, Embree, Three.js, Unity
+  - Other Tools: Maven, Jenkins, Linux, Docker, AWS, Tabelau, MySQL, Git
 - 📫 How to reach me: yyingshizhu@gmail.com
 - :stuck_out_tongue_closed_eyes: Fun Fact:
   - I have been to 22 countries in the world and still counting.
